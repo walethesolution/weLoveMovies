@@ -2,7 +2,7 @@
 This project is to build complex servers and access data through a database.
 
 ## Live deployment
-**View** [weLoveMovies](https://tranquil-fjord-38398.herokuapp.com/)
+**View** [weLoveMovies](https://we-love-movies11.herokuapp.com/)
 
 ## API endpoints 
 | Method | Routes | Description |
